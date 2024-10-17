@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **wyattcheangwaihoe@icloud.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/xjavu2mnk7ghd1u06n5i1/CHEANG_WAI_HOE_CV.pdf?rlkey=syaidg3x5vh8hgt8grl5op8i4&st=2n7yy62j&dl=0](https://www.dropbox.com/scl/fi/xjavu2mnk7ghd1u06n5i1/CHEANG_WAI_HOE_CV.pdf?rlkey=syaidg3x5vh8hgt8grl5op8i4&st=2n7yy62j&dl=0)
+- 📄 Know about my experiences [🔗](https://www.dropbox.com/scl/fi/xjavu2mnk7ghd1u06n5i1/CHEANG_WAI_HOE_CV.pdf?rlkey=syaidg3x5vh8hgt8grl5op8i4&st=2n7yy62j&dl=0)
 
 - ⚡ Interested **Tennis, Piano, Baking, Movie!**
 
