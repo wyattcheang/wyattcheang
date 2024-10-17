@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👦🏻 Hi, I'm fresh graduate from **Asia Pacific University**
+
+- 🌱 I’m currently learning **MLOps**
+
+- 📫 How to reach me **wyattcheangwaihoe@icloud.com**
+
+- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/xjavu2mnk7ghd1u06n5i1/CHEANG_WAI_HOE_CV.pdf?rlkey=syaidg3x5vh8hgt8grl5op8i4&st=2n7yy62j&dl=0](https://www.dropbox.com/scl/fi/xjavu2mnk7ghd1u06n5i1/CHEANG_WAI_HOE_CV.pdf?rlkey=syaidg3x5vh8hgt8grl5op8i4&st=2n7yy62j&dl=0)
+
+- ⚡ Interested **Tennis, Piano, Baking, Movie!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wyattcheang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wyattcheang" height="30" width="40" /></a>
