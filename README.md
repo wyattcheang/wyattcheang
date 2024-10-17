@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👦🏻 Hi, I'm fresh graduate from **Asia Pacific University**
+- 👋🏻 Hi, I'm fresh graduate from **Asia Pacific University**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Redis**, **MLOps**
 
 - 📫 How to reach me **wyattcheangwaihoe@icloud.com**
 
